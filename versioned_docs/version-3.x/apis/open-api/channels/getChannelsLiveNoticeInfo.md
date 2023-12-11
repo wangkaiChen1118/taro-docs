@@ -34,7 +34,7 @@ sidebar_label: getChannelsLiveNoticeInfo
 
 | 参数 | 类型 | 说明 |
 | --- | --- | --- |
-| nonceId | `string` | 预告 nonceId |
+| noticeId | `string` | 预告 noticeId |
 | status | `number` | 预告状态：0可用 1取消 2已用 |
 | startTime | `string` | 开始时间 |
 | headUrl | `string` | 直播封面 |
